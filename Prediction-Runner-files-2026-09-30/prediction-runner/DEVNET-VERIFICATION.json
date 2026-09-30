@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-09-30T13:15:19.197Z",
+  "rpc": "https://api.devnet.solana.com",
+  "genesis": "EtWTRABZaYq6iMfeYKouRu166VU2xqa1wcaWoxPkrZBG",
+  "program": "GV1FMGHRYBjQLaghE5fnGuYCuCcpdt3GD5xEX3TwN16y",
+  "collateral": "3WQ8hCqTNwjrh8WzE2XyoZoUrd1miPcwWfMkmFPUMEWZ",
+  "testWallet": "65WMZ4LjSdadroaiVTUvu9c8yhqbocudpQcSUJxWbyGy",
+  "userWalletWasNotSigner": true,
+  "receipts": [
+    {
+      "direction": "usdcToYes",
+      "signature": "2UyZ6Na65874CSrfZCqqwrtgrHUujgPEmRURJECkSSrjAa2P1fa74MndJUX21LjFVdH3qq4a3LkBXZbGh2dYZcQy",
+      "market": "6TypZxhtFhdedEZ2CX8xBV8zCqacS6ZSySEhK6DfJknR",
+      "amountInMusdc": 1,
+      "quoteRaw": 3768588,
+      "minimumRaw": 3730902,
+      "outcomeTokens": "3.768677",
+      "status": "finalized"
+    },
+    {
+      "direction": "usdcToNo",
+      "signature": "4TVgbUQoMRAoCVBXtfFsmXzmMEbX9vvrdeq7DpKHqHM4wY8sgdnXC6vbnHe3rUxE9AAWHFHV54hMnktBNvxQPpLY",
+      "market": "6TypZxhtFhdedEZ2CX8xBV8zCqacS6ZSySEhK6DfJknR",
+      "amountInMusdc": 1,
+      "quoteRaw": 1326763,
+      "minimumRaw": 1313495,
+      "outcomeTokens": "1.326794",
+      "status": "finalized"
+    }
+  ]
+}
